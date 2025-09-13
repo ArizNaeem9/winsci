@@ -81,8 +81,6 @@ python -m http.server 8080
 npx http-server .
 
 
-Then visit http://localhost:8080/tools/simple-quiz/.
-
 Tip: For workshops, keep both the slide PDF and the quiz open in tabs.
 
 🗂 Repo Structure
