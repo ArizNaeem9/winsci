@@ -1,0 +1,23 @@
+1) For Rice Students
+
+Hi [Name], I’m a Rice undergrad applying for [Company]’s internship. It’s inspiring to see fellow Owls there! Would love to connect, hear your advice, and if you’re comfortable, a referral would mean a lot. Thanks!
+
+2) For Non-Rice Students
+
+Hi [Name], I’m a Rice undergrad applying for [Company]’s internship. I admire your work in [area]. I’d love to connect, learn from your experience, and if you’re open, a referral would be greatly appreciated. Thanks!
+
+
+Cover Letter Generation Template:
+"Consider me a Rice University undergraduate student applying for a Software Engineering internship at <x> company. My goal is to create a unique, deeply personalized cover letter that blends my own experiences, technical skills, and values with <x>’s mission, culture, and products. When drafting the cover letter, you should:
+
+Open with a memorable, story-driven hook that connects my background (Rice projects, internships, leadership, or personal initiatives) to something meaningful about <x> (its mission, flagship product, or engineering culture).
+
+Highlight my technical skills (React, Node.js, PostgreSQL, Redis, CI/CD, GPT-powered features, etc.) with quantified impact (metrics like performance gains, latency reduction, user adoption) and show how they are directly relevant to <x>’s challenges and priorities.
+
+Weave in my extracurriculars and initiatives (Winsci, sustainability efforts, global perspective across Pakistan/U.S., teaching students with disabilities, transforming neglected spaces into gardens, etc.) to demonstrate creativity, leadership, and community impact beyond pure coding.
+
+Demonstrate genuine knowledge of <x> by referencing specific technologies, initiatives, or company values, and make it clear why I’m excited to grow there.
+
+Conclude with a forward-looking note that ties back to the opening theme (for example, “the aroma of clay” or personal experiences of resilience, innovation, or environmental stewardship), while expressing enthusiasm for contributing to <x> as a SWE intern.
+
+Ensure the cover letter is one page, professional yet personal, avoids clichés, and makes me stand out as a candidate who brings both strong engineering ability and a unique human story."
