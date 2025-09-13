@@ -51,25 +51,6 @@ It ships **turnkey lesson plans**, **printable worksheets**, and **no-install br
 
 ---
 
-## ⚡ Quickstart (Try in 30 Seconds)
-
-1) **Open a quiz locally** (no install):
-- Navigate to `tools/simple-quiz/` and double-click `index.html`.
-
-2) **Run a tiny local server** (optional but nicer URLs):
-```bash
-# Option A: Python (preinstalled on many machines)
-python -m http.server 8080
-
-# Option B: Node
-npx http-server .
-```
-Then visit `http://localhost:8080/tools/simple-quiz/?bank=cs`
-
-> Tip: For workshops, keep both the slide PDF and the quiz open in tabs.
-
----
-
 ## 🗂 Repo Structure
 
 ```
