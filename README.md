@@ -126,7 +126,7 @@ Detailed checklists and guidance in `docs/accessibility.md`.
 
 ## 📈 Outcomes & Evidence
 
-Use `outcomes/metrics.md` (template) + `outcomes/testimonials.md`. A report template is provided in `outcomes/reporting-template.md`.
+Use [outcomes/metrics.md] + `outcomes/testimonials.md`. A report template is provided in `outcomes/reporting-template.md`.
 
 ---
 
