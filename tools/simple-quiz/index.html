@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Winsci Quiz</title>
+<link rel="stylesheet" href="quiz.css"/>
+</head>
+<body>
+<header>
+  <h1 id="title">Winsci Quiz</h1>
+  <p id="desc">Keyboard friendly. Use Tab/Shift+Tab, Space/Enter to select.</p>
+</header>
+
+<main>
+  <div id="config" aria-describedby="desc">
+    <label for="bank">Choose question bank:</label>
+    <select id="bank" name="bank">
+      <option value="cs">Intro to CS</option>
+      <option value="python">Python Basics</option>
+      <option value="ai">Intro to AI</option>
+    </select>
+    <button id="load">Load</button>
+  </div>
+
+  <form id="quiz" role="form" aria-label="Quiz">
+    <!-- questions render here -->
+  </form>
+
+  <div class="actions">
+    <button id="submit" disabled>Submit</button>
+    <button id="reset" disabled>Reset</button>
+  </div>
+
+  <section id="results" aria-live="polite"></section>
+</main>
+
+<footer>
+  <p>Tip: You can also set <code>?bank=python</code> in the URL.</p>
+</footer>
+
+<script src="quiz.js"></script>
+</body>
+</html>

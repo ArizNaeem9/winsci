@@ -1,0 +1,12 @@
+body{font-family:system-ui,Segoe UI,Arial,sans-serif;margin:1.5rem;line-height:1.5}
+h1{margin:0 0 .25rem 0}
+#config{margin:.5rem 0 1rem 0}
+fieldset{border:1px solid #ccc;padding:1rem;margin:1rem 0}
+legend{font-weight:600}
+label{display:block;margin:.25rem 0}
+.actions{margin:1rem 0;display:flex;gap:.5rem}
+.correct{color:green;font-weight:600}
+.incorrect{color:#a00;font-weight:600}
+:focus{outline:3px solid #3b82f6;outline-offset:2px}
+button{cursor:pointer;padding:.5rem .75rem;border-radius:.4rem;border:1px solid #bbb;background:#f6f6f6}
+button:disabled{opacity:.6;cursor:not-allowed}
