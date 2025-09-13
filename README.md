@@ -138,6 +138,7 @@ Lahore |	7 |	6.0 |	86% |	School lab Chromebooks
 Islamabad |	4 |	3.6 |	75% |	Library PCs, offline focus
 Total:	17|| 4.9 | ~85%	| All sites supported offline
 ---
+```
 
 ## 🔒 Privacy & Safety
 
