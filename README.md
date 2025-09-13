@@ -128,6 +128,15 @@ Detailed checklists and guidance in `docs/accessibility.md`.
 
 Use `outcomes/metrics.md` + `outcomes/testimonials.md`. A report template is provided in `outcomes/reporting-template.md`.
 
+```
+2025 Report:
+
+Participation
+Site |	Registered | Avg Attendance |	Retention (attended ≥4/6) |	Devices
+Abbottabad |	6 |	5.1 |	83% |	Shared PCs, spotty internet
+Lahore |	7 |	6.0 |	86% |	School lab Chromebooks
+Islamabad |	4 |	3.6 |	75% |	Library PCs, offline focus
+Total:	17|| 4.9 | ~85%	| All sites supported offline
 ---
 
 ## 🔒 Privacy & Safety
