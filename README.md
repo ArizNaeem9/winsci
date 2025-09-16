@@ -1,4 +1,4 @@
-# 🌱 Winsci — Coding & Digital Literacy for Everyone
+# Winsci — Coding & Digital Literacy for Everyone
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](#-license)
 ![Made with: HTML/JS/CSS](https://img.shields.io/badge/Made%20with-HTML%2FJS%2FCSS-blue)
